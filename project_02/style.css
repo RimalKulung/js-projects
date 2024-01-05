@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #1b1b1b;
+    color: white;
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+}
+
+.box{
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    color: black;
+    font-size: 20px;
+}
+
+.btn{
+    padding: 10px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+
+
+#results{
+    color: white;
+    height: 50px;
+    font-size: 50px;
+}
